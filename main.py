@@ -1,4 +1,3 @@
-# gerekli kutuphaneler
 import sys
 import cv2
 import socket
