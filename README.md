@@ -47,4 +47,4 @@ python main.py
 - Port scanning without proper authorization might be illegal or against the target server's terms of service. Use this feature responsibly and ethically.
 
 ![portscan](https://github.com/00Bd00/PyQtBrowser/blob/main/portscan1.png)
-![portscan2](https://github.com/00Bd00/PyQtBrowser/blob/main/portscan1.png)
+![portscan2](https://github.com/00Bd00/PyQtBrowser/blob/main/portscan2.png)
