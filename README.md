@@ -45,3 +45,6 @@ python main.py
 
 - The default MongoDB connection string assumes a local MongoDB instance with the specified credentials.
 - Port scanning without proper authorization might be illegal or against the target server's terms of service. Use this feature responsibly and ethically.
+
+![portscan](https://github.com/00Bd00/PyQtBrowser/blob/main/portscan1.png)
+![portscan2](https://github.com/00Bd00/PyQtBrowser/blob/main/portscan1.png)
